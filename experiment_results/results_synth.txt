@@ -1,4 +1,4 @@
-Bundestag results for the following seat assignments: Adams, D'Hondt, Greedy Method.
+Synthetic results for the following seat assignments: Adams, D'Hondt, Greedy Method.
 
 Number of elections: 1000| Number of parties: 10| Number of seats: 25
 
