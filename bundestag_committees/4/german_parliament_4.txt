@@ -1,0 +1,12 @@
+#Title: 4th Bundestag 1961 (to begin legislative period)
+#Number of parties: 4 parties (4th party represents independent candidates)
+#Total seats: 499
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: Non-attached
+
+1:190
+2:242
+3:67
+4:0

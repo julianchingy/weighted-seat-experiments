@@ -1,0 +1,36 @@
+#Title: 4th Bundestag committee results (for period October 1961 to October 1965)
+#Number of parties: 4 parties (only 3 parties received committees, not the 4th party that represents independent candidates)
+#Number of committees: 28 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: Non-attached
+
+15:1
+27:1
+27:2
+27:1
+27:2
+27:1
+15:1
+27:2
+27:1
+23:2
+23:3
+27:2
+27:1
+27:2
+15:2
+31:3
+27:2
+23:2
+27:2
+27:1
+27:2
+23:1
+27:1
+27:2
+23:1
+27:1
+27:3
+23:2

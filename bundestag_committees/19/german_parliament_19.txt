@@ -1,0 +1,18 @@
+#Title: 19th Bundestag 2017 (to begin legislative period)
+#Number of parties: 7 parties
+#Total seats: 709
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: AfD
+#Party 4: FDP
+#Party 5: Left
+#Party 6: Alliance 90/Greens
+#Party 7: Non-attached
+
+1:245
+2:152
+3:87
+4:80
+5:69
+6:67
+7:9

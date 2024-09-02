@@ -1,0 +1,32 @@
+#Title: 16th Bundestag committee results (for period October 2005 to October 2009)
+#Number of parties: 6 parties (only 5 parties received committees, not the 6th party that represents independent candidates)
+#Number of committees: 22 committees
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: FDP
+#Party 4: Left
+#Party 5: Alliance 90/Greens
+#Party 6: Non-attached
+
+13:1
+25:4
+36:1
+36:2
+16:2
+31:1
+33:1
+41:3
+36:2
+31:5
+36:1
+30:2
+31:2
+31:4
+36:1
+33:2
+16:2
+31:2
+22:5
+16:1
+33:1
+20:3

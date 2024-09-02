@@ -1,0 +1,33 @@
+#Title: 14th Bundestag committee results (for period October 1998 to October 2002)
+#Number of parties: 6 parties (only 5 parties received committees, not the 6th party that represents independent candidates)
+#Number of committees: 23 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: Alliance 90/Greens
+#Party 4: FDP
+#Party 5: PDS
+#Party 6: Non-attached
+
+15:1
+29:5
+40:1
+40:1
+15:1
+31:2
+40:3
+42:2
+40:2
+26:2
+40:1
+38:1
+31:1
+31:1
+42:2
+38:1
+15:2
+15:3
+38:4
+26:2
+15:2
+36:2
+15:1

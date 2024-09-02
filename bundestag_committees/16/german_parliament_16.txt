@@ -1,0 +1,16 @@
+#Title: 16th Bundestag 2005 (to begin legislative period)
+#Number of parties: 6 parties (6th party represents independent candidates)
+#Total seats: 611
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: FDP
+#Party 4: Left
+#Party 5: Alliance 90/Greens
+#Party 6: Non-attached
+
+1:222
+2:221
+3:61
+4:53
+5:51
+6:3

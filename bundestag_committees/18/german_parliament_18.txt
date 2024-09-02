@@ -1,0 +1,14 @@
+#Title: 18th Bundestag 2013 (to begin legislative period)
+#Number of parties: 5 parties (5th party represents independent candidates)
+#Total seats: 630
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: Left
+#Party 4: Alliance 90/Greens
+#Party 5: Non-attached
+
+1:309
+2:193
+3:64
+4:63
+5:1

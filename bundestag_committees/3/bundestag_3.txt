@@ -1,0 +1,36 @@
+#Title: 3rd Bundestag committee results (for period October 1957 to October 1961)
+#Number of parties: 5 parties (only 3 parties received committees, not DP or the 5th party that represents independent candidates)
+#Number of committees: 26 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: DP
+#Party 5: Non-attached
+
+17:1
+29:1
+29:2
+29:1
+29:2
+29:1
+17:1
+29:2
+29:2
+23:2
+23:3
+29:2
+29:1
+29:2
+17:2
+29:2
+29:2
+23:2
+29:2
+29:1
+29:2
+23:1
+29:1
+29:2
+23:2
+29:3
+

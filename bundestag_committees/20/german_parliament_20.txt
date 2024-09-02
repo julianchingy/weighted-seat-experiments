@@ -1,0 +1,18 @@
+#Title: 20th Bundestag 2021 (to begin legislative period)
+#Number of parties: 7 parties
+#Total seats: 736
+#Party 1: SPD
+#Party 2: CDU/CSU(Union)
+#Party 3: Green
+#Party 4: FDP
+#Party 5: AfD
+#Party 6: Left
+#Party 7: Non-attached
+
+1:206
+2:197
+3:118
+4:92
+5:78
+6:39
+7:6

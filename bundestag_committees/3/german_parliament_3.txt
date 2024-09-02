@@ -1,0 +1,14 @@
+#Title: 3rd Bundestag 1957 (to begin legislative period)
+#Number of parties: 5 parties (5th party represents independent candidates)
+#Total seats: 497
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: DP
+#Party 5: Non-attached
+
+1:169
+2:270
+3:41
+4:17
+5:0

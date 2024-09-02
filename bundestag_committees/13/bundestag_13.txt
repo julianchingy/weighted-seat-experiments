@@ -1,0 +1,32 @@
+#Title: 13th Bundestag committee results (for period November 1994 to October 1998)
+#Number of parties: 6 parties (only 4 parties received committees, not PDS or the 6th party that represents independent candidates)
+#Number of committees: 22 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: Alliance 90/Greens
+#Party 4: FDP
+#Party 5: PDS
+#Party 6: Non-attached
+
+17:1
+32:3
+39:2
+39:1
+17:2
+32:2
+39:4
+41:1
+39:2
+32:2
+39:1
+39:2
+39:1
+32:4
+39:2
+39:2
+17:1
+32:2
+39:1
+32:2
+17:3
+39:1

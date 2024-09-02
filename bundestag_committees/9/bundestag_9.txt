@@ -1,0 +1,28 @@
+#Title: 9th Bundestag committee results (for period November 1980 to March 1983, note that some committees were reassigned to different parties at various times but the original assignments for them are used)
+#Number of parties: 4 parties (only 3 parties received committees, not the 4th party that represents independent candidates)
+#Number of committees: 20 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: Non-attached
+
+13:1
+27:2
+33:2
+27:1
+13:2
+27:1
+31:3
+33:2
+31:2
+27:1
+33:1
+27:2
+25:1
+27:2
+13:1
+27:2
+25:3
+25:2
+25:1
+25:1

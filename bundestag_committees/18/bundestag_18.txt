@@ -1,0 +1,32 @@
+#Title: 18th Bundestag committee results (for period October 2013 to October 2017)
+#Number of parties: 5 parties (only 4 parties received committees, not the 5th party that represents independent candidates)
+#Number of committees: 23 committees
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: Left
+#Party 4: Alliance 90/Greens
+#Party 5: Non-attached
+
+46:1
+41:2
+41:3
+41:2
+39:4
+37:1
+37:2
+37:2
+37:1
+36:1
+36:4
+34:1
+34:1
+34:1
+32:2
+26:3
+21:1
+18:2
+18:5
+18:1
+16:1
+16:1
+14:1

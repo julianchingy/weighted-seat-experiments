@@ -1,0 +1,16 @@
+#Title: 13th Bundestag 1994 (to begin legislative period)
+#Number of parties: 6 parties (6th party represents independent candidates)
+#Total seats: 672
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: Alliance 90/Greens
+#Party 4: FDP
+#Party 5: PDS
+#Party 6: Non-attached
+
+1:252
+2:294
+3:49
+4:47
+5:30
+6:0

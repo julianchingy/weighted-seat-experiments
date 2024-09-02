@@ -1,0 +1,12 @@
+#Title: 7th Bundestag 1972 (to begin legislative period)
+#Number of parties: 4 parties (4th party represents independent candidates)
+#Total seats: 496
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: Non-attached
+
+1:230
+2:225
+3:41
+4:0

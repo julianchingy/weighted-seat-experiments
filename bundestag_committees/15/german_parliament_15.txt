@@ -1,0 +1,14 @@
+#Title: 15th Bundestag 2002 (to begin legislative period)
+#Number of parties: 5 parties (5th party represents independent candidates)
+#Total seats: 603
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: Alliance 90/Greens
+#Party 4: FDP
+#Party 5: Non-attached
+
+1:251
+2:248
+3:55
+4:47
+5:52

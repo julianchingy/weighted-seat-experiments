@@ -1,0 +1,33 @@
+#Title: 17th Bundestag committee results (for period October 2009 to October 2013)
+#Number of parties: 6 parties (only 5 parties received committees, not the 6th party that represents independent candidates)
+#Number of committees: 23 committees
+#Party 1: CDU/CSU
+#Party 2: SPD
+#Party 3: FDP
+#Party 4: Left
+#Party 5: Alliance 90/Greens
+#Party 6: Non-attached
+
+41:2
+37:4
+37:1
+37:3
+37:2
+37:1
+37:1
+37:5
+37:1
+37:1
+35:1
+34:2
+34:3
+34:3
+34:4
+34:2
+26:4
+24:1
+24:1
+18:5
+18:2
+18:1
+13:1

@@ -1,0 +1,69 @@
+#Title: 1st Bundestag committee results (for period September 1949 to September 1953)
+#NOTE: some committees were reassigned to different parties at various times but the original assignments for them are used, some committees were added after initial result but are included
+#NOTE: one committee was not assigned to any party so its party value was set to 0
+#Number of parties: 12 parties (only 8 parties received committees, not KPD, DRP, BHE/DG or the 12th party that represents independent candidates)
+#Number of committees: 45 committees
+#Party 1: SPD
+#Party 2: CDU/CSU
+#Party 3: FDP
+#Party 4: DP
+#Party 5: BP
+#Party 6: FU
+#Party 7: WAV
+#Party 8: Zentrum
+#Party 9: KPD
+#Party 10: DRP
+#Party 11: BHE/DG
+#Party 12: Non-attached
+#Party 0: Committee is not assigned to any party
+#27:0
+
+7:3
+21:1
+7:1
+21:1
+27:1
+21:1
+21:1
+21:2
+27:1
+27:3
+15:2
+27:2
+21:4
+15:2
+7:1
+27:2
+21:2
+27:2
+21:2
+21:1
+27:2
+27:2
+21:1
+21:5
+21:1
+21:3
+15:1
+15:7
+15:2
+15:8
+21:3
+15:2
+15:2
+27:1
+7:1
+21:3
+27:2
+9:2
+21:2
+21:2
+21:2
+27:1
+27:3
+9:4
+
+
+
+
+
